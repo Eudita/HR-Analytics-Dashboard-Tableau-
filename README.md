@@ -24,7 +24,7 @@ The summary is divided into **Overview, Demographics, and Income Analysis**.
 - Total hired, active, and terminated employees  
 - Hiring & termination trends over the years  
 - Employee breakdown by **department** and **job title**  
-- HQ (New York) vs Branch employee comparison  
+- HQ vs Branch employee comparison  
 - Employee distribution across **cities** and **states**  
 
 #### **2. Demographics**
